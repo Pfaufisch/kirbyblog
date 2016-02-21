@@ -1,0 +1,69 @@
+Title: Ein Blick auf Brave
+----
+Date: 30.01.2016
+----
+Text:
+
+(image: 03.png imgclass: img-responsive)
+
+Etwa Mitte Januar hörte man zum ersten Mal vom neuen Browser [Brave](https://brave.com/), dessen herausragende Eigenschaft im Wesentlichen ist, Werbung und Tracker zu blocken. Das können auch andere, daher eine zusätzliche Besonderheit: Brave kann die dann frei werdenden Werbeplätze mit eigenen, mutmaßlich weniger nervigen Bannern füllen. Die Brave-Macher verdienen damit Geld, das sie unter anderem mit den Seitenbetreibern teilen wollen, deren Werbung sie blocken. Mehr zu den Hintergründen [fasst ZEIT Online hier zusammen](http://www.zeit.de/digital/internet/2016-01/brave-browser-online-werbung-adblocker).
+
+Gegenwärtig steht Brave in einer Vorschauversion für Windows und OS X zum Download bereit. Später sollen Apps für Android und iOS dazukommen. Auf die Mac-App habe ich einen Blick geworfen.
+
+Beim ersten und allen darauf folgenden Starts präsentiert Brave sich mit einer leeren, weißen Seite. Häufig besuchte Webseiten oder andere Vorschläge gibt es derzeit noch nicht.
+
+(image: 01.png imgclass: img-responsive)
+
+Die Adressleiste erinnert an Safari: Nur während eine URL eingegeben oder geladen wird, gibt sie sich als Eingabefeld zu erkennen. In allen anderen Fällen erscheint ledilich der Seitentitel. Fährt man mit der Maus darüber, erscheint links der Reload-Button, rechts ein Stern zum Speichern der Seite.
+
+(image: 10.png imgclass: img-responsive link: self)
+(image: 11.png imgclass: img-responsive link: self)
+
+Außerdem gibt Brave die Ladezeit der aktuellen Seite an. Es scheint relativ wahrscheinlich, dass es sich dabei um eine Funktion der Vorabversion handelt, die später aus dem Browser fliegen wird.
+
+(image: 04.png imgclass: img-responsive)
+
+Der klassische Modus und der Privat-Modus sind weniger stark getrennt als in anderen Browsern. Das heißt: Alle Tabs finden sich unabhängig vom Modus im gleichen Fenster, private Tabs sind lediglich mit einer anderen Farbe hervorgehoben.
+
+(image: 05.png imgclass: img-responsive link: self)
+
+Neben dem privaten Modus gibt es in Brave außerdem die "Partitioned Session": Solche Tabs sind in Sachen Cookies unabhängig vom restlichen Browser, erlauben es also zum Beispiel, sich gleichzeitig in unterschiedliche Accounts einzuloggen.
+
+(image: 08.png imgclass: img-responsive)
+
+Darüber hinaus bringt Brave eine Art Tab-Vorschau mit. Wird die Maus über einen inaktiven Tab gehalten, erscheint, leicht abgedunkelt, die jeweilige Seite im Browser-Fenster.
+
+(image: 06.png imgclass: img-responsive)
+
+Unabhängig von der größe des Fensters zeigt Brave maximal sechs Tabs nebeneinander an. Weitere geöffnete Tabs verschwinden auf einer zweiten, dritten, und so weiter Seite. Zwischen den Seiten kann über Pfeilsymbole sowie zwei kleine Buttons gewechselt werden.
+
+(image: 07.png imgclass: img-responsive)
+
+Die Kernfunktion von Brave steckt in einem Menü namens Bravery. Hier kann der Nutzer sich entscheiden, ob Werbungen nur geblockt, geblockt und ersetzt oder vollständig angezeigt werden sollen. Pop-ups blockt Bravery standardmäßig, außerdem ist das Add-on HTTPS Everywhere vorinstalliert.
+
+(image: 02.png imgclass: img-responsive)
+
+Derzeit ersetzt Brave noch keine Werbebanner. An manchen Stellen erscheint aber schon jetzt ein Hinweis auf zukünftige Brave-Banner. An dieser Stelle lernen wir auch, dass die Brave-Werbungen sicherer und schneller sein sollen als klassische Banner.
+
+(image: 15.png imgclass: img-responsive)
+
+Werbung konnte Brave in meinem Kurztest tatsächlich sehr zuverlässig ausblenden. Vorbei am Werbeblocker schaffte es zum Beispiel die Video-Werbung von Spiegel Online. Die typischen Nebenwirkungen des Tracker-Blockings betreffen auch Brave, das heißt Embeds von Facebook, Twitter, Instagram und anderen Seiten sehen teilweise arg zerrupft aus. Ein Browser, der diese Inhalte standarmäßig blockiert, sollte dafür eine Lösung parat haben.
+
+(image: 14.png imgclass: img-responsive)
+
+Zu weiteren Kleinigkeiten von Brave gehört das Lautsprechersymbol im Browser-Tab, das immer dann erscheint, wenn eine Webseite Töne von sich gibt. Ein Klick auf das Symbol schaltet den Tab stumm. Wie erwähnt ist es möglich, Lesezeichen zu speichern - bislang fehlt aber eine Möglichkeit, die gespeicherten Lesezeichen anzuzeigen und aufzurufen.
+
+Nicht ganz klar ist mir, nach welchem System Browser-Tab von Brave gefärbt werden: Google-Tabs erscheinen grün, Facebook-Tabs blau, ein Yahoo-Tab lila, viele andere Tabs in grau. Einen Zusammenhang zu den Favicon-Farben gibt es dem Anschein nach nicht, stattdessen scheint Brave die Farbe aus dem Inhalt der Seite zu holen. Richtig gut klappt das aber nur selten.
+
+## Was Brave fehlt
+
+Mindestens so viele Funktionen, wie bereits an Bord sind, gibt es zur Zeit noch nicht. Vollständig fehlen zum Beispiel die Einstellung, die eine Anpassung des Browsers erlauben. Das Kontetmenü, etwa um einen Link in einem neuen Tab zu öffnen, funktioniert nur manchmal richtig. Erweiterungen lässt Brave vollständig vermissen. Da der Browser auf Chromium basiert, ist anzunehmen, das grundsätzlich auch Chrome-Erweiterungen unterstützt werden können – die entsprechende Schnittstelle dafür fehlt aber noch.
+
+Downloads bietet Brave rudimentär über einen Betriebssystem-typischen Dialog an, ein eigenes Menü fehlt. Auch auf den Verlauf kann noch nicht zugegriffen werden.
+
+## Unterm Strich
+
+Dank Chromium-Unterbau läuft Brave trotz früher Version stabil. Spürbare Geschwindigkeits-Unterschiede zu (einem ebenfalls mit Ad-Blocker ausgestatteten) Google Chrome gibt es nicht, dafür aber sehr wohl interessante und verfolgenswerte Ansätze an der Benutzeroberfläche. Klar zu erkennen ist aber auch, dass Brave keineswegs fertig ist und noch viel Feinjustierung und Politur bedarf.
+
+
+----
